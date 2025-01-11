@@ -15,3 +15,4 @@ langkah 3: Install library yang dibutuhkan. Jalankan kode berikut:
 kode 1: pip3 install sounddevice librosa numpy tensorflow noisereduce gpiozero
 
 langkah 4: Wiring sistem sesuai dengan gambar pada file skematik.png
+langkah 5: Pastikan directory file model kws sudah benar pada kode program sebelum menjalankannya
